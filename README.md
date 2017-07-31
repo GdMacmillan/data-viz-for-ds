@@ -10,4 +10,4 @@ We will approach data viz from the perspective of a data scientist.  Hopefully b
 
 ![bokeh stacked bar chart example](bokeh_plot_ex.png)
 
-I added the following plot example as an image because these interactive plots don't render correctly in the static notebook files
+I added the above plot example to this readme as an image because these interactive plots don't render correctly in the static notebook files.
